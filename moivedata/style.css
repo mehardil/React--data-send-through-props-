@@ -1,0 +1,28 @@
+.container{
+    background-color: antiquewhite;
+    height: 100vh;
+    width: 100%;
+}
+.navbar{
+    background-color:rgb(114, 78, 24);
+    display: flex;
+    width: 100%;
+    height: 10vh;
+
+}
+.INPUTS{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(58, 38, 11);
+    height: 10vh;
+    text-align: center;
+}
+.set{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.cards{
+    background-color: brown !important  ;
+}
